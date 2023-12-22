@@ -33,5 +33,5 @@ I am a senior student at [USTC](https://en.ustc.edu.cn/) with research interests
 ## 🎖 Honors and Awards
 <div style="border-left: 4px solid #2a7ae2; background-color: #f8f8f8; padding: 15px; margin-top: 20px; font-family: sans-serif;">
   <h3 style="margin: 0; margin-bottom: 5px; font-weight: bold;">IJCAI-ECAI AI Olympics, Top 8</h3>
-  <p style="margin: 0; color: #777;">2023.08-2023.10</p>
+  <p style="margin: 0; color: #777;">2022.08</p>
 </div>
