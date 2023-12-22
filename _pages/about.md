@@ -14,5 +14,5 @@ I am a senior student at [USTC](https://en.ustc.edu.cn/) with research interests
 * B.S. in Computer Science, [USTC](https://en.ustc.edu.cn/), 2020.09-2024.06
 
 ## Internship
-* MLLMs research intern, <img src="../images/taotian.png" alt="Taotian" width="30" height="30" />Alibaba Taotian, 2023.11-
-* LLMs intern, <img src="../images/meituan.png" alt="Meituan" width="30" height="30" />Meituan, 2023.08-2023.10
+* MLLMs research intern, <img src="../images/taotian.png" alt="Taotian" width="25" height="25" />Alibaba Taotian, 2023.11-
+* LLMs intern, <img src="../images/meituan.png" alt="Meituan" width="25" height="25" />Meituan, 2023.08-2023.10
