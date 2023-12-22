@@ -34,15 +34,9 @@ I am a senior student at [USTC](https://en.ustc.edu.cn/) with research interests
 <div style="padding: 20px; margin-top: 20px; background-color: #f9f9f9; border-left: 4px solid #5cb85c; font-family: Arial, sans-serif;">
     <ul style="list-style-type: none; padding: 0;">
         <li style="padding-bottom: 10px;">
-            <strong style="font-size: 16px;">National Scholarship</strong><br>
-            <span style="font-size: 14px; color: #555;">September 2021</span><br>
-            <span style="font-size: 14px; color: #666;">Awarded for academic excellence among top 1% of students in the university</span>
+            <strong style="font-size: 16px;">IJCAI-ECAI AI Olympics, Top 8</strong><br>
+            <span style="font-size: 14px; color: #555;">2022.08</span><br>
         </li>
         <!-- More award entries here -->
-        <li>
-            <strong style="font-size: 16px;">Best Innovative Project Award</strong><br>
-            <span style="font-size: 14px; color: #555;">Tech Innovation Fair 2022</span><br>
-            <span style="font-size: 14px; color: #666;">Recognized for the most innovative technology project of the year</span>
-        </li>
     </ul>
 </div>
