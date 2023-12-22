@@ -10,15 +10,14 @@ redirect_from:
 
 I am a senior student at [USTC](https://en.ustc.edu.cn/) with research interests in recommendation systems, LLMs, and MLLMs. Recently, I am working as a research intern on MLLMs at Alibaba Taotian Group.
 
-## Education
-* B.S. in Computer Science, [USTC](https://en.ustc.edu.cn/), 2020.09-2024.06
+## 📖 Education
 <div style="border-left: 4px solid #2a7ae2; background-color: #f8f8f8; padding: 15px; margin-top: 20px; font-family: sans-serif;">
-  <h2 style="color: #2a7ae2; margin-bottom: 10px;">Education</h2>
+  <h3 style="color: #2a7ae2; margin-bottom: 7px;">Education</h3>
   <p style="margin: 0; margin-bottom: 5px; font-weight: bold;">University of Science and Technology of China (USTC)</p>
-  <p style="margin: 0; color: #555;">Bachelor of Science in Computer Science</p>
-  <p style="margin: 0; color: #777;">September 2019 - June 2023</p>
+  <p style="margin: 0; color: #555;">Bachelor in Computer Science</p>
+  <p style="margin: 0; color: #777;">2020.09 - 2020.09-2024.06</p>
 </div>
 
-## Internship
+## 💻 Internships
 * MLLMs research intern, <img src="../images/taotian.png" alt="Taotian" width="25" height="25" />Alibaba Taotian, 2023.11-
 * LLMs intern, <img src="../images/meituan.png" alt="Meituan" width="25" height="25" />Meituan, 2023.08-2023.10
