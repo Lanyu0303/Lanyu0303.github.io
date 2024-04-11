@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior student at [USTC](https://en.ustc.edu.cn/) with research interests in recommendation systems, LLMs, and MLLMs. Recently, I am working as a research intern on MLLMs at Alibaba Taotian Group.
+I am a senior student at [USTC](https://en.ustc.edu.cn/) with research interests in recommendation systems, LLMs, and MLLMs.
 
 ## 📖 Education
 <div style="border-left: 4px solid #2a7ae2; background-color: #f8f8f8; padding: 15px; margin-top: 20px; font-family: sans-serif;">
