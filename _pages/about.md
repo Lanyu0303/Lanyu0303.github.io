@@ -44,14 +44,15 @@ I am a senior student at [USTC](https://en.ustc.edu.cn/) with research interests
 <div style="border-left: 4px solid #2a7ae2; background-color: #f8f8f8; padding: 15px; margin-top: 20px; font-family: sans-serif;">
   <div style="display: flex;">
     <div style="flex-shrink: 0; margin-right: 15px;">
-      <img src="../images/meituan.png" alt="Paper Image" width="100" height="100" />
+      <img src="../images/geogpt4v.png" alt="Paper Image" width="100" height="100" />
     </div>
     <div style="flex-grow: 1;">
       <h3 style="margin: 0; margin-bottom: 5px; font-weight: bold;">GeoGPT4V: Towards Geometric Multi-modal Large Language Models with Geometric Image Generation</h3>
-      <p style="margin: 0; color: #555;">Shihao Cai</p>
-      <button style="margin-top: 10px; padding: 10px 15px; background-color: #2a7ae2; color: #fff; border: none; border-radius: 5px; cursor: pointer;" onclick="window.location.href='http://example.com';">
-        PDF
-      </button>
+      <p style="margin: 0; color: #555;">Shihao Cai*,Keqin Bao*,Hangyu Guo,Jizhi Zhang,Jun Song,Bo Zheng</p>
+      <div style="margin-top: 10px;">
+        <a href="https://link1.com" style="margin-right: 10px; padding: 5px 10px; background-color: #2a7ae2; color: white; text-decoration: none; border-radius: 3px;">PDF</a>
+        <a href="https://link2.com" style="margin-right: 10px; padding: 5px 10px; background-color: #2a7ae2; color: white; text-decoration: none; border-radius: 3px;">Code</a>
+      </div>
     </div>
   </div>
 </div>
