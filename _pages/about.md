@@ -48,7 +48,6 @@ I am a senior student at [USTC](https://en.ustc.edu.cn/) with research interests
   <div>
     <h3 style="margin: 0; margin-bottom: 5px; font-weight: bold;">GeoGPT4V: Towards Geometric Multi-modal Large Language Models with Geometric Image Generation</h3>
     <p style="margin: 0; color: #555;"><b>Shihao Cai</b>*,Keqin Bao*,Hangyu Guo,Jizhi Zhang,Jun Song,Bo Zheng</p>
-    <p style="margin: 0; color: #555;"><i>Arxiv</i></p>
     <div style="margin-top: 10px;">
       <a href="https://github.com/Lanyu0303/GeoGPT4V_Project" style="margin-right: 10px; padding: 5px 10px; background-color: #2a7ae2; color: white; text-decoration: none; border-radius: 3px;">Code</a>
     </div>
