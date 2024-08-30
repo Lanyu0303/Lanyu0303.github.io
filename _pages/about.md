@@ -8,13 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior student at [USTC](https://en.ustc.edu.cn/) with research interests in recommendation systems, LLMs, and MLLMs.
+I am a MSc student at [USTC](https://en.ustc.edu.cn/) with research interests in recommender system, LLMs, and MLLMs.
 
 ## 📖 Education
 <div style="border-left: 4px solid #2a7ae2; background-color: #f8f8f8; padding: 15px; margin-top: 20px; font-family: sans-serif;">
   <div style="display: flex; justify-content: space-between; align-items: baseline;">
-    <h3 style="margin: 0; margin-bottom: 5px; font-weight: bold;"><img src="../images/ustc.png" alt="USTC" width="25" height="25" />  University of Science and Technology of China (USTC)</h3>
-    <span style="margin: 0; color: #777;">2020.09-Present</span>
+    <h3 style="margin: 0; margin-bottom: 5px; font-weight: bold;"><img src="../images/ustc.png" alt="USTC" width="25" height="25" />  University of Science and Technology of China</h3>
+    <span style="margin: 0; color: #777;">2024.09-Present</span>
+  </div>
+  <p style="margin: 0; color: #555;">Master in Artificial Intelligence</p>
+  
+</div>
+
+<div style="border-left: 4px solid #2a7ae2; background-color: #f8f8f8; padding: 15px; margin-top: 20px; font-family: sans-serif;">
+  <div style="display: flex; justify-content: space-between; align-items: baseline;">
+    <h3 style="margin: 0; margin-bottom: 5px; font-weight: bold;"><img src="../images/ustc.png" alt="USTC" width="25" height="25" />  University of Science and Technology of China</h3>
+    <span style="margin: 0; color: #777;">2020.09-2024.06</span>
   </div>
   <p style="margin: 0; color: #555;">Bachelor in Computer Science</p>
   
