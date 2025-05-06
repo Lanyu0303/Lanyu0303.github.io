@@ -60,7 +60,7 @@ I am a MSc student at [USTC](https://en.ustc.edu.cn/) with research interests in
     <p style="margin: 0; color: #555;"><b>Shihao Cai</b>, Jizhi Zhang, Keqin Bao, Chongming Gao, Qifan Wang, Fuli Feng, Xiangnan He</p>
     <div style="margin-top: 10px;">
       <a href="https://arxiv.org/pdf/2410.20027v2" style="margin-right: 10px; padding: 5px 10px; background-color: #2a7ae2; color: white; text-decoration: none; border-radius: 3px;">Paper</a>
-      <a href="https://github.com/Lanyu0303/AFLt" style="margin-right: 10px; padding: 5px 10px; background-color: #2a7ae2; color: white; text-decoration: none; border-radius: 3px;">Code</a>
+      <a href="https://github.com/Lanyu0303/AFL" style="margin-right: 10px; padding: 5px 10px; background-color: #2a7ae2; color: white; text-decoration: none; border-radius: 3px;">Code</a>
     </div>
   </div>
 </div>
