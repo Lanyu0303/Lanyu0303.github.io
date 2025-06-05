@@ -52,7 +52,7 @@ I am a MSc student at [USTC](https://en.ustc.edu.cn/) with research interests in
 
 <div style="border-left: 4px solid #2a7ae2; background-color: #f8f8f8; padding: 15px; margin-top: 20px; font-family: sans-serif; display: flex; align-items: center;">
   <div style="margin-right: 15px;">
-    <img src="../images/KPO.png" alt="Paper Image" style="width: 200px; object-fit: contain;" />
+    <img src="../images/KPO.png" alt="Paper Image" width="200" />
   </div>
   <div>
     <h3 style="margin: 0; margin-bottom: 5px; font-weight: bold;">K-order Ranking Preference Optimization for Large Language Models</h3>
@@ -67,7 +67,7 @@ I am a MSc student at [USTC](https://en.ustc.edu.cn/) with research interests in
 
 <div style="border-left: 4px solid #2a7ae2; background-color: #f8f8f8; padding: 15px; margin-top: 20px; font-family: sans-serif; display: flex; align-items: center;">
   <div style="margin-right: 15px;">
-    <img src="../images/AFL.png" alt="Paper Image" style="width: 200px; object-fit: contain;" />
+    <img src="../images/AFL.png" alt="Paper Image" width="200" />
   </div>
   <div>
     <h3 style="margin: 0; margin-bottom: 5px; font-weight: bold;">Agentic Feedback Loop Modeling Improves Recommendation and User Simulation</h3>
@@ -82,7 +82,7 @@ I am a MSc student at [USTC](https://en.ustc.edu.cn/) with research interests in
 
 <div style="border-left: 4px solid #2a7ae2; background-color: #f8f8f8; padding: 15px; margin-top: 20px; font-family: sans-serif; display: flex; align-items: center;">
   <div style="margin-right: 15px;">
-    <img src="../images/geogpt4v.png" alt="Paper Image" style="width: 200px; object-fit: contain;" />
+    <img src="../images/geogpt4v.png" alt="Paper Image" width="200" />
   </div>
   <div>
     <h3 style="margin: 0; margin-bottom: 5px; font-weight: bold;">GeoGPT4V: Towards Geometric Multi-modal Large Language Models with Geometric Image Generation</h3>
