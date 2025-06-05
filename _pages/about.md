@@ -52,6 +52,21 @@ I am a MSc student at [USTC](https://en.ustc.edu.cn/) with research interests in
 
 <div style="border-left: 4px solid #2a7ae2; background-color: #f8f8f8; padding: 15px; margin-top: 20px; font-family: sans-serif; display: flex; align-items: center;">
   <div style="margin-right: 15px;">
+    <img src="../images/KPO.png" alt="Paper Image" style="height: 100px; object-fit: contain;" />
+  </div>
+  <div>
+    <h3 style="margin: 0; margin-bottom: 5px; font-weight: bold;">K-order Ranking Preference Optimization for Large Language Models</h3>
+    <p style="margin: 0; color: #555;"><i>ACL 2025 Findings</i></p>
+    <p style="margin: 0; color: #555;"><b>Shihao Cai</b>, Chongming Gao, Yang Zhang, Wentao Shi, Jizhi Zhang, Keqin Bao, Qifan Wang, Fuli Feng</p>
+    <div style="margin-top: 10px;">
+      <a href="https://arxiv.org/pdf/2506.00441" style="margin-right: 10px; padding: 5px 10px; background-color: #2a7ae2; color: white; text-decoration: none; border-radius: 3px;">Paper</a>
+      <a href="https://github.com/Lanyu0303/KPO" style="margin-right: 10px; padding: 5px 10px; background-color: #2a7ae2; color: white; text-decoration: none; border-radius: 3px;">Code</a>
+    </div>
+  </div>
+</div>
+
+<div style="border-left: 4px solid #2a7ae2; background-color: #f8f8f8; padding: 15px; margin-top: 20px; font-family: sans-serif; display: flex; align-items: center;">
+  <div style="margin-right: 15px;">
     <img src="../images/AFL.png" alt="Paper Image" style="height: 100px; object-fit: contain;" />
   </div>
   <div>
