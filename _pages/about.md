@@ -59,17 +59,21 @@ I am currently seeking full-time industry opportunities. Please feel free to rea
   font-weight: 500;
   letter-spacing: 0.3px;
 }
+.exp-header {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-top: 2px;
+}
 .exp-org {
   font-size: 1.05em;
   font-weight: 600;
   color: #202124;
-  margin-top: 2px;
 }
 .exp-team {
-  font-size: 0.9em;
+  font-size: 0.85em;
   color: #1a73e8;
   font-weight: 500;
-  margin-top: 1px;
 }
 .exp-desc {
   font-size: 0.88em;
@@ -82,19 +86,25 @@ I am currently seeking full-time industry opportunities. Please feel free to rea
 <div class="exp-timeline">
   <div class="exp-item">
     <div class="exp-date">2026.03 — Present</div>
-    <div class="exp-org">Alibaba · Tongyi Lab</div>
-    <div class="exp-team">Qwen Team</div>
+    <div class="exp-header">
+      <span class="exp-org">Alibaba · Tongyi Lab</span>
+      <span class="exp-team">Qwen Team</span>
+    </div>
     <div class="exp-desc">Focusing on agent-related data for LLM pre-training.</div>
   </div>
   <div class="exp-item">
     <div class="exp-date">2025.12 — 2026.03</div>
-    <div class="exp-org">Moonshot AI (Kimi)</div>
-    <div class="exp-team">RL Team</div>
+    <div class="exp-header">
+      <span class="exp-org">Moonshot AI (Kimi)</span>
+      <span class="exp-team">RL Team</span>
+    </div>
     <div class="exp-desc">Agentic post-training for tool use and skill following.</div>
   </div>
   <div class="exp-item">
     <div class="exp-date">2025.08 — 2025.12</div>
-    <div class="exp-org">Alibaba · Tongyi Lab</div>
+    <div class="exp-header">
+      <span class="exp-org">Alibaba · Tongyi Lab</span>
+    </div>
     <div class="exp-desc">Agentic post-training for tool use and environment scaling.</div>
   </div>
 </div>
