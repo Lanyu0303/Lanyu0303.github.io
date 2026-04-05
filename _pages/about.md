@@ -179,3 +179,67 @@ I am currently seeking full-time industry opportunities. Please feel free to rea
     </div>
   </a>
 </div>
+
+## First-Author & Co-First-Author Papers
+
+<style>
+.pub-list {
+  margin-top: 14px;
+}
+.pub-card {
+  display: block;
+  padding: 10px 14px;
+  margin-bottom: 10px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border-left: 3px solid #34a853;
+  transition: background 0.2s, transform 0.15s;
+  text-decoration: none;
+  color: inherit;
+}
+.pub-card:hover {
+  background: #eef7f0;
+  transform: translateX(3px);
+}
+.pub-title {
+  font-size: 0.98em;
+  font-weight: 500;
+  color: #202124;
+  line-height: 1.4;
+}
+.pub-venue {
+  font-size: 0.78em;
+  color: #5f6368;
+  margin-top: 3px;
+}
+.pub-venue strong {
+  color: #34a853;
+}
+</style>
+
+<div class="pub-list">
+  <a href="https://arxiv.org/pdf/2512.22857" target="_blank" class="pub-card">
+    <div class="pub-title">AutoForge: Automated Environment Synthesis for Agentic Reinforcement Learning</div>
+    <div class="pub-venue"><strong>arXiv</strong></div>
+  </a>
+  <a href="https://arxiv.org/pdf/2509.13311v1" target="_blank" class="pub-card">
+    <div class="pub-title">Towards General Agentic Intelligence via Environment Scaling</div>
+    <div class="pub-venue"><strong>arXiv</strong></div>
+  </a>
+  <a href="https://arxiv.org/pdf/2506.00441" target="_blank" class="pub-card">
+    <div class="pub-title">K-order Ranking Preference Optimization for Large Language Models</div>
+    <div class="pub-venue"><strong>ACL 2025 Findings</strong></div>
+  </a>
+  <a href="https://arxiv.org/pdf/2510.22888" target="_blank" class="pub-card">
+    <div class="pub-title">MGFRec: Towards Reinforced Reasoning Recommendation with Multiple Groundings and Feedback</div>
+    <div class="pub-venue"><strong>KDD 2026</strong></div>
+  </a>
+  <a href="https://arxiv.org/pdf/2410.20027v2" target="_blank" class="pub-card">
+    <div class="pub-title">Agentic Feedback Loop Modeling Improves Recommendation and User Simulation</div>
+    <div class="pub-venue"><strong>SIGIR 2025</strong></div>
+  </a>
+  <a href="https://arxiv.org/pdf/2406.11503" target="_blank" class="pub-card">
+    <div class="pub-title">GeoGPT4V: Towards Geometric Multi-modal Large Language Models with Geometric Image Generation</div>
+    <div class="pub-venue"><strong>EMNLP 2024</strong></div>
+  </a>
+</div>
