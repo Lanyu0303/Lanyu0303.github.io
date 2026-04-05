@@ -187,7 +187,9 @@ I am currently seeking full-time industry opportunities. Please feel free to rea
   margin-top: 14px;
 }
 .pub-card {
-  display: block;
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
   padding: 10px 14px;
   margin-bottom: 10px;
   background: #f8f9fa;
@@ -206,40 +208,43 @@ I am currently seeking full-time industry opportunities. Please feel free to rea
   font-weight: 500;
   color: #202124;
   line-height: 1.4;
+  text-decoration: none;
 }
 .pub-venue {
-  font-size: 0.78em;
-  color: #5f6368;
-  margin-top: 3px;
-}
-.pub-venue strong {
-  color: #34a853;
+  flex-shrink: 0;
+  font-size: 0.7em;
+  color: #fff;
+  background: #34a853;
+  padding: 1px 6px;
+  border-radius: 4px;
+  font-weight: 500;
+  margin-top: 2px;
 }
 </style>
 
 <div class="pub-list">
   <a href="https://arxiv.org/pdf/2512.22857" target="_blank" class="pub-card">
     <div class="pub-title">AutoForge: Automated Environment Synthesis for Agentic Reinforcement Learning</div>
-    <div class="pub-venue"><strong>arXiv</strong></div>
+    <div class="pub-venue">arXiv</div>
   </a>
   <a href="https://arxiv.org/pdf/2509.13311v1" target="_blank" class="pub-card">
     <div class="pub-title">Towards General Agentic Intelligence via Environment Scaling</div>
-    <div class="pub-venue"><strong>arXiv</strong></div>
+    <div class="pub-venue">arXiv</div>
   </a>
   <a href="https://arxiv.org/pdf/2506.00441" target="_blank" class="pub-card">
     <div class="pub-title">K-order Ranking Preference Optimization for Large Language Models</div>
-    <div class="pub-venue"><strong>ACL 2025 Findings</strong></div>
+    <div class="pub-venue">ACL 2025</div>
   </a>
   <a href="https://arxiv.org/pdf/2510.22888" target="_blank" class="pub-card">
     <div class="pub-title">MGFRec: Towards Reinforced Reasoning Recommendation with Multiple Groundings and Feedback</div>
-    <div class="pub-venue"><strong>KDD 2026</strong></div>
+    <div class="pub-venue">KDD 2026</div>
   </a>
   <a href="https://arxiv.org/pdf/2410.20027v2" target="_blank" class="pub-card">
     <div class="pub-title">Agentic Feedback Loop Modeling Improves Recommendation and User Simulation</div>
-    <div class="pub-venue"><strong>SIGIR 2025</strong></div>
+    <div class="pub-venue">SIGIR 2025</div>
   </a>
   <a href="https://arxiv.org/pdf/2406.11503" target="_blank" class="pub-card">
     <div class="pub-title">GeoGPT4V: Towards Geometric Multi-modal Large Language Models with Geometric Image Generation</div>
-    <div class="pub-venue"><strong>EMNLP 2024</strong></div>
+    <div class="pub-venue">EMNLP 2024</div>
   </a>
 </div>
