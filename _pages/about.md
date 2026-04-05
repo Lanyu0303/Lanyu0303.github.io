@@ -71,7 +71,7 @@ I am currently seeking full-time industry opportunities. Please feel free to rea
   color: #202124;
 }
 .exp-team {
-  font-size: 0.85em;
+  font-size: 1.05em;
   color: #1a73e8;
   font-weight: 500;
 }
@@ -104,7 +104,78 @@ I am currently seeking full-time industry opportunities. Please feel free to rea
     <div class="exp-date">2025.08 — 2025.12</div>
     <div class="exp-header">
       <span class="exp-org">Alibaba · Tongyi Lab</span>
+      <span class="exp-team">DeepResearch Team</span>
     </div>
     <div class="exp-desc">Agentic post-training for tool use and environment scaling.</div>
   </div>
+</div>
+
+## Technical Reports
+
+<style>
+.tr-list {
+  margin-top: 14px;
+}
+.tr-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px 14px;
+  margin-bottom: 10px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border-left: 3px solid #1a73e8;
+  transition: background 0.2s, transform 0.15s;
+  text-decoration: none;
+  color: inherit;
+}
+.tr-card:hover {
+  background: #eef3ff;
+  transform: translateX(3px);
+}
+.tr-icon {
+  flex-shrink: 0;
+  width: 18px;
+  height: 18px;
+  margin-top: 2px;
+  color: #1a73e8;
+}
+.tr-title {
+  font-size: 0.98em;
+  font-weight: 500;
+  color: #202124;
+}
+.tr-badge {
+  display: inline-block;
+  font-size: 0.7em;
+  color: #fff;
+  background: #1a73e8;
+  padding: 1px 6px;
+  border-radius: 4px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
+</style>
+
+<div class="tr-list">
+  <a href="https://arxiv.org/pdf/2602.02276" target="_blank" class="tr-card">
+    <svg class="tr-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+      <polyline points="14 2 14 8 20 8"></polyline>
+    </svg>
+    <div>
+      <span class="tr-title">Kimi K2.5 Technical Report</span>
+      <span class="tr-badge">arXiv</span>
+    </div>
+  </a>
+  <a href="https://arxiv.org/pdf/2510.24701" target="_blank" class="tr-card">
+    <svg class="tr-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+      <polyline points="14 2 14 8 20 8"></polyline>
+    </svg>
+    <div>
+      <span class="tr-title">Tongyi DeepResearch Technical Report</span>
+      <span class="tr-badge">arXiv</span>
+    </div>
+  </a>
 </div>
