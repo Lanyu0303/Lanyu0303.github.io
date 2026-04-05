@@ -116,7 +116,7 @@ I am currently seeking full-time industry opportunities. Please feel free to rea
 .tr-list {
   margin-top: 14px;
 }
-.tr-card {
+.tr-card, .tr-card:hover, .tr-card:active, .tr-card:focus {
   display: flex;
   align-items: flex-start;
   gap: 10px;
@@ -126,7 +126,8 @@ I am currently seeking full-time industry opportunities. Please feel free to rea
   border-radius: 8px;
   border-left: 3px solid #1a73e8;
   transition: background 0.2s, transform 0.15s;
-  text-decoration: none;
+  text-decoration: none !important;
+  border-bottom: none !important;
   color: inherit;
 }
 .tr-card:hover {
@@ -140,10 +141,12 @@ I am currently seeking full-time industry opportunities. Please feel free to rea
   margin-top: 2px;
   color: #1a73e8;
 }
-.tr-title {
+.tr-title, .tr-title:hover {
   font-size: 0.98em;
   font-weight: 500;
   color: #202124;
+  text-decoration: none !important;
+  border-bottom: none !important;
 }
 .tr-badge {
   display: inline-block;
@@ -197,6 +200,7 @@ I am currently seeking full-time industry opportunities. Please feel free to rea
   border-left: 3px solid #34a853;
   transition: background 0.2s, transform 0.15s;
   text-decoration: none !important;
+  border-bottom: none !important;
   color: inherit;
 }
 .pub-card:hover {
@@ -248,4 +252,73 @@ I am currently seeking full-time industry opportunities. Please feel free to rea
     <div class="pub-title">GeoGPT4V: Towards Geometric Multi-modal Large Language Models with Geometric Image Generation</div>
     <div class="pub-venue">EMNLP 2024</div>
   </a>
+</div>
+
+## Education
+
+<style>
+.edu-timeline {
+  position: relative;
+  padding-left: 24px;
+  margin-top: 16px;
+}
+.edu-timeline::before {
+  content: '';
+  position: absolute;
+  left: 5px;
+  top: 8px;
+  bottom: 8px;
+  width: 2px;
+  background: linear-gradient(180deg, #9aa0a6 0%, #5f6368 100%);
+  border-radius: 1px;
+}
+.edu-item {
+  position: relative;
+  margin-bottom: 18px;
+  padding-left: 20px;
+}
+.edu-item::before {
+  content: '';
+  position: absolute;
+  left: -20px;
+  top: 6px;
+  width: 10px;
+  height: 10px;
+  background: #fff;
+  border: 2.5px solid #9aa0a6;
+  border-radius: 50%;
+  z-index: 1;
+}
+.edu-item:last-child::before {
+  border-color: #5f6368;
+}
+.edu-date {
+  font-size: 0.8em;
+  color: #80868b;
+  font-weight: 500;
+}
+.edu-degree {
+  font-size: 1.02em;
+  font-weight: 600;
+  color: #202124;
+  margin-top: 1px;
+}
+.edu-school {
+  font-size: 0.9em;
+  color: #5f6368;
+  margin-top: 1px;
+}
+</style>
+
+<div class="edu-timeline">
+  <div class="edu-item">
+    <div class="edu-date">2024.09 — 2027.06 (expected)</div>
+    <div class="edu-degree">M.E. in Artificial Intelligence</div>
+    <div class="edu-school">University of Science and Technology of China</div>
+  </div>
+  <div class="edu-item">
+    <div class="edu-date">2020.09 — 2024.06</div>
+    <div class="edu-degree">B.E. in Computer Science</div>
+    <div class="edu-school">University of Science and Technology of China</div>
+  </div>
 </div>
