@@ -186,7 +186,7 @@ I am currently seeking full-time industry opportunities. Please feel free to rea
 .pub-list {
   margin-top: 14px;
 }
-.pub-card {
+.pub-card, .pub-card:hover, .pub-card:active, .pub-card:focus {
   display: flex;
   align-items: flex-start;
   gap: 10px;
@@ -196,19 +196,20 @@ I am currently seeking full-time industry opportunities. Please feel free to rea
   border-radius: 8px;
   border-left: 3px solid #34a853;
   transition: background 0.2s, transform 0.15s;
-  text-decoration: none;
+  text-decoration: none !important;
   color: inherit;
 }
 .pub-card:hover {
   background: #eef7f0;
   transform: translateX(3px);
 }
-.pub-title {
+.pub-title, .pub-title:hover {
   font-size: 0.98em;
   font-weight: 500;
   color: #202124;
   line-height: 1.4;
-  text-decoration: none;
+  text-decoration: none !important;
+  border-bottom: none !important;
 }
 .pub-venue {
   flex-shrink: 0;
