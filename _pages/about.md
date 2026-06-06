@@ -234,11 +234,11 @@ I am currently seeking full-time industry opportunities. Please feel free to rea
   </a>
   <a href="https://arxiv.org/pdf/2509.13311v1" target="_blank" class="pub-card">
     <div class="pub-title">Towards General Agentic Intelligence via Environment Scaling</div>
-    <div class="pub-venue">arXiv</div>
+    <div class="pub-venue">ACL 2026 Findings</div>
   </a>
   <a href="https://arxiv.org/pdf/2506.00441" target="_blank" class="pub-card">
     <div class="pub-title">K-order Ranking Preference Optimization for Large Language Models</div>
-    <div class="pub-venue">ACL 2025</div>
+    <div class="pub-venue">ACL 2025 Findings</div>
   </a>
   <a href="https://arxiv.org/pdf/2510.22888" target="_blank" class="pub-card">
     <div class="pub-title">MGFRec: Towards Reinforced Reasoning Recommendation with Multiple Groundings and Feedback</div>
