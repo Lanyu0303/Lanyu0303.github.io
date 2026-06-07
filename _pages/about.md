@@ -10,8 +10,8 @@ I am a second-year master's student at the [University of Science and Technology
 
 My research interest mainly lies in:
 
-- **LLM-based agents and agentic RL**
-- **LLMs for Recommendation**
+- **LLM-based agents**
+- **Agentic mid-training and post-training**
 
 I am currently seeking full-time industry opportunities. Please feel free to reach out to me via [email](mailto:caishihao@mail.ustc.edu.cn).
 
